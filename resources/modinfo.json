@@ -1,0 +1,9 @@
+{
+    "type": "code",
+    "side": "server",
+    "modid": "scythemore",
+    "name": "Scythe More",
+    "description": "Expands the list of blocks that can be harvested with a scythe",
+    "authors": ["Craluminum2413"],
+    "version": "1.0.1"
+}
